@@ -35,6 +35,9 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+.chatEmptyState img {
   background-color: #00286A;
 }
 
